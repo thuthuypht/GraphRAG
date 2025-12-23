@@ -1,0 +1,2 @@
+[server]
+maxUploadSize = 1000 # Đơn vị MB, ví dụ 1GB

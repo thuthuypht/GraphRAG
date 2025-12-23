@@ -1,0 +1,1 @@
+{"dataset": "BreastCancer", "run_tag": "demo", "instance_id": "Patient_1", "label": 0, "label_definition": "y=1 if diagnosis == 'M', else y=0.", "n_proposed": 0, "n_validated": 0, "hallucination_rate": 1.0, "community_representative": "Patient_1", "explanation_path": []}

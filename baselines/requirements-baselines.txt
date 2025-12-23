@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+networkx
+rdflib
+owlready2
+node2vec
+gensim
+xgboost
+lightgbm
+pykeen
+torch

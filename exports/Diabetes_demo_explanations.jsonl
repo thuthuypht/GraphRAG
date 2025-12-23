@@ -1,0 +1,1 @@
+{"dataset": "Diabetes", "run_tag": "demo", "instance_id": "1", "label": 1, "label_definition": "y=1 if (hasOutcome(patient, patient)) exists; else y=0.", "n_proposed": 40, "n_validated": 30, "hallucination_rate": 0.25, "community_representative": "1", "explanation_path": []}
